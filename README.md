@@ -17,8 +17,8 @@ I am an Integration Enthusiast from 🇮🇳
 
 ## DataWeave Repos
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pranav-davar&repo=advent-of-code-2024-dw&theme=default_repocard)](https://github.com/pranav-davar/advent-of-code-2024-dw)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pranav-davar&repo=project-euler-dw&theme=default_repocard)](https://github.com/pranav-davar/project-euler-dw)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pranav-davar&repo=advent-of-code-2024-dw&theme=swift&description_lines_count=2)](https://github.com/pranav-davar/advent-of-code-2024-dw)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pranav-davar&repo=project-euler-dw&theme=swift&description_lines_count=2)](https://github.com/pranav-davar/project-euler-dw)
 <!--
 **pranav-davar/pranav-davar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
