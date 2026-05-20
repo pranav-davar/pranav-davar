@@ -6,7 +6,7 @@ I am an Integration Enthusiast from 🇮🇳
 [![Blog](https://img.shields.io/badge/decipherMiddleware-D50000?logo=blogger&logoColor=white&style=for-the-badge)](https://blog.deciphermiddleware.in/)
 
 ## About me
-- Technical Lead at TEKsystems Global Services in India
+- Senior Technical Lead at TEKsystems Global Services in India
 - [MuleSoft Ambassador](https://www.mulesoft.com/community/ambassadors/)
 - MuleSoft Meetup Leader - [Bangalore](https://meetups.mulesoft.com/bangalore/)
 - 🔭 Speaker
